@@ -33,12 +33,12 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ## Circuit Diagram
 
-![Circuit Diagram](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.28_f9458082.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/a56c4672-c7a5-44a8-908f-860243dc365d)
 
 
 ## Truth Table for 2-Bit Multiplier
 
-![Truth Table](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.29_53cfc3a4.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/fdb01f7d-60c1-4605-8462-c4dd954c5602)
 
 
 ## Schematic Diagram
