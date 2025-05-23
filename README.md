@@ -33,12 +33,12 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ## Circuit Diagram
 
-![image](https://github.com/user-attachments/assets/a56c4672-c7a5-44a8-908f-860243dc365d)
+![Circuit Diagram](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.28_f9458082.jpg?raw=true)
 
 
 ## Truth Table for 2-Bit Multiplier
 
-![image](https://github.com/user-attachments/assets/fdb01f7d-60c1-4605-8462-c4dd954c5602)
+![Truth Table](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.29_53cfc3a4.jpg?raw=true)
 
 
 ## Schematic Diagram
@@ -61,16 +61,16 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+![Schematic 1](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.28_f9458082.jpg?raw=true)
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
+![Transient Analysis](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.29_53cfc3a4.jpg?raw=true)
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
 
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+![Schematic 2](https://github.com/Aishu-25/Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools/blob/main/WhatsApp%20Image%202025-05-23%20at%2014.40.29_9af560c5.jpg?raw=true)
 
 Run Time : 200ns
 
